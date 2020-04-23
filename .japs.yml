@@ -1,0 +1,4 @@
+version: 1
+application:
+    chart_path: './charts/podinfo'
+    image: dartsman/podinfo
