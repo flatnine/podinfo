@@ -1,4 +1,5 @@
 version: 1
+name: podinfo
 application:
     chart_path: './charts/podinfo'
     image: dartsman/podinfo
